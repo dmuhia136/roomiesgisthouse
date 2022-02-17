@@ -1,0 +1,33 @@
+<svg id="private" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Mask" cx="30" cy="30" r="30" transform="translate(0 0)" fill="#d8d8d8"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Mask-2" data-name="Mask" d="M17.32,40h0L0,30V10L17.321,0,34.641,10V30L17.321,40ZM17,4h0L3,12V28l14,8,14-8V12L17,4Z" fill="#03d091"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <circle id="Mask-3" data-name="Mask" cx="7" cy="7" r="7" fill="#f7b500"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2" data-name="Group 2">
+    <g id="Group_11" data-name="Group 11">
+      <g id="_8ffc3240404403.577dfbca1eefe" data-name="8ffc3240404403.577dfbca1eefe">
+        <circle id="Mask-4" data-name="Mask" cx="30" cy="30" r="30" transform="translate(0 0)" fill="#d8d8d8"/>
+      </g>
+      <circle id="Oval" cx="26.5" cy="26.5" r="26.5" transform="translate(3 4)" fill="#f7b500"/>
+    </g>
+    <g id="Rectangle" transform="translate(12 10)">
+      <path id="Mask-5" data-name="Mask" d="M17.32,40h0L0,30V10L17.321,0,34.641,10V30L17.321,40ZM17,4h0L3,12V28l14,8,14-8V12L17,4Z" fill="#03d091"/>
+      <g id="Rectangle-2" data-name="Rectangle" clip-path="url(#clip-path-2)">
+        <rect id="Rectangle-3" data-name="Rectangle" width="22" height="100" transform="translate(-5 -18)" fill="#091324"/>
+      </g>
+    </g>
+  </g>
+  <g id="Rectangle-4" data-name="Rectangle" transform="translate(22 23)">
+    <circle id="Mask-6" data-name="Mask" cx="7" cy="7" r="7" fill="#f7b500"/>
+    <g id="Rectangle-5" data-name="Rectangle" clip-path="url(#clip-path-3)">
+      <rect id="Rectangle-6" data-name="Rectangle" width="9" height="21" transform="translate(7 -6)" fill="#091324"/>
+    </g>
+  </g>
+</svg>

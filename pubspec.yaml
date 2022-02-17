@@ -1,0 +1,112 @@
+name: gisthouse
+description: GistHouse App.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.89+89
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  pull_to_refresh:
+  firebase_auth: ^1.1.0
+  cloud_firestore: ^1.0.6
+  firebase_storage: ^8.0.0
+  firebase_core:
+  firebase_messaging: ^10.0.8
+  cloud_functions:
+  country_code_picker: ^2.0.1
+  image_cropper: ^1.3.1
+  image_picker:
+  cached_network_image:
+  get: ^3.24.0
+  permission_handler:
+  agora_rtc_engine: ^4.0.6
+  firebase_dynamic_links: ^0.5.0+11
+  flutter_local_notifications:  ^9.0.0
+  share: ^0.6.5+4
+  http:
+  loading_indicator:
+  package_info_plus: ^1.0.2
+  url_launcher:
+  dotted_border: ^2.0.0
+  mailto: ^2.0.0
+  device_info: ^2.0.3
+  #  contacts_service: ^0.6.1
+  shared_preferences: ^2.0.7
+  animation_wrappers: ^1.0.0
+  animations: ^2.0.1
+  blur: ^3.0.0
+  progress_dialog: ^1.2.2
+  grouped_list: ^4.1.0
+  assets_audio_player: ^3.0.3+3
+  global_toast: ^2.0.0
+  flutter_chat_ui:
+    git:
+      url: https://github.com/freddysundowner/flutter_chat_ui
+  #  any_link_preview:
+  #    path: custompackages/any_link_preview
+  async: ^2.4.1
+  firebase_crashlytics:
+  foreground_service: ^2.0.1+1
+  #  any_link_preview:
+  #  flutter_link_preview:
+  fast_gbk: ^1.0.0-rc
+  platform: ^3.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/other/
+    - assets/sounds/
+  fonts:
+
+    - family: RobotoRegular
+      fonts:
+        - asset: fonts/Roboto-Regular.ttf
+
+    - family: InterLight
+      fonts:
+        - asset: fonts/Inter-Light.ttf
+
+    - family: InterExtraBold
+      fonts:
+        - asset: fonts/Inter-ExtraBold.ttf
+
+    - family: InterBold
+      fonts:
+        - asset: fonts/Inter-Bold.ttf
+
+    - family: InterSemiBold
+      fonts:
+        - asset: fonts/Inter-SemiBold.ttf
+
+    - family: InterRegular
+      fonts:
+        - asset: fonts/Inter-Regular.ttf
+
+    - family: InterMedium
+      fonts:
+        - asset: fonts/Inter-Medium.ttf
+
+    - family: RobotoLight
+      fonts:
+        - asset: fonts/Roboto-Light.ttf
+
+    - family: RobotoRegular
+      fonts:
+        - asset: fonts/Roboto-Regular.ttf
+
+    - family: LucidaGrande
+      fonts:
+        - asset: fonts/LucidaGrande.ttf

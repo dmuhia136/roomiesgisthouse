@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "949689208847",
+    "project_id": "gisthouse-887e3",
+    "storage_bucket": "gisthouse-887e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949689208847:android:267b89e4ed381302ba937a",
+        "android_client_info": {
+          "package_name": "com.gistgist.gisthouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949689208847-6h441mhb5dsk178qote64ntsdgt4qkua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gistgist.gisthouse",
+            "certificate_hash": "963acdc274b329f0c0e4f5aa88c680b1e6bd7a16"
+          }
+        },
+        {
+          "client_id": "949689208847-g8d6e7u9at3i9tiqo7jcrtltnmr0n76v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gistgist.gisthouse",
+            "certificate_hash": "b1fd654865ed157d250e66a5a39ed8efa262d0f5"
+          }
+        },
+        {
+          "client_id": "949689208847-mgckis1qnn4kodcs7trqgi732is1hfk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gistgist.gisthouse",
+            "certificate_hash": "45e029c187c8dccd323546f95bb040ade3b1ac62"
+          }
+        },
+        {
+          "client_id": "949689208847-u9qdds7c7l47dfp5rpcij1rav5atrndm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gistgist.gisthouse",
+            "certificate_hash": "2c12c1c348baa31d23ede3a09d1892c1d64eff90"
+          }
+        },
+        {
+          "client_id": "949689208847-g4vvgpjq8vijqme2v1g45vium1kom623.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2qauptMzaLi5x2T6CZHkxbhftEJh9hI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949689208847-g4vvgpjq8vijqme2v1g45vium1kom623.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "949689208847-2n2sgd7ma2bbc0ksoljt7nv7233bfo74.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gistt.gisthouse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
